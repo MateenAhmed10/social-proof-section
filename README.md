@@ -22,7 +22,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Solution](https://www.frontendmentor.io/solutions/responsive-design-Ludn4Ks1AK)
 - Live Site URL: [Social Proof](http://social-proof-section.surge.sh/)
 
 ### Built with
